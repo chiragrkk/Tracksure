@@ -1,5 +1,7 @@
-TrackSure – Real-time Shipment Tracking System
-TrackSure is an IoT-based real-time shipment tracking system designed to improve transparency and efficiency in the modern supply chain. Using ESP8266, Firebase and the Blynk IoT Cloud platform, TrackSure enables continuous monitoring of shipment locations with live updates accessible from anywhere.
+Tracksure – Real-time Shipment Tracking System
+
+
+Tracksure is an IoT-based real-time shipment tracking system designed to improve transparency and efficiency in the modern supply chain. Using ESP8266, Firebase and the Blynk IoT Cloud platform, Tracksure enables continuous monitoring of shipment locations with live updates accessible from anywhere.
 Provides customized access for sellers, transporters, and consumers and delivers insights and analytics specific to each stakeholder's needs.
 
 
