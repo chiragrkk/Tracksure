@@ -4,6 +4,8 @@ Provides customized access for sellers, transporters, and consumers and delivers
 
 
 Implementation Strategy
+
+
 IoT Hardware Development: Use ESP8266, DHT11 sensors, GPS modules, and RFID systems for tracking and monitoring.  
 Cloud Integration: Leverage Blynk IoT Cloud and Firebase for secure data storage, real-time syncing, and communication.  
 Custom Web app: Build a responsive React frontend, Node.js backend, and stakeholder-specific dashboards with alerts.  
